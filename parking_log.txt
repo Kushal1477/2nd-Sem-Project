@@ -1,0 +1,10 @@
+2026-10-4 | ENTRY | Four-Wheeler | BA-2-PA-2345 | Slot: 1
+2026-10-4 | EXIT | Four-Wheeler | BA-2-PA-2345 | Fee: Rs.50
+2026-10-6 10:19 | ENTRY | Two-Wheeler | GA-45-PA-3045 | Slot: 1
+2026-10-6 10:22 | EXIT | Two-Wheeler | GA-45-PA-3045 | Fee: Rs.20
+2026-10-09 08:17 | ENTRY | Two-Wheeler | BA-2-PA-8765 | Slot: 1
+2026-10-09 09:18 | EXIT | Two-Wheeler | BA-2-PA-8765 | Fee: Rs.40
+2026-10-10 09:38 | ENTRY | Two-Wheeler | BA2PA-39 | Slot: 1
+2026-10-12 18:48 | ENTRY | Two-Wheeler | BA-2-PA-0001 | Slot: 2
+2026-10-12 18:49 | EXIT | Two-Wheeler | BA-2-PA-0001 | Fee: Rs.20
+2026-10-12 18:49 | EXIT | Two-Wheeler | BA2PA-39 | Fee: Rs.1160
